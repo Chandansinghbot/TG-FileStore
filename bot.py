@@ -74,16 +74,16 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/TGRobot_List")
+                        InlineKeyboardButton("♡ 𝐌𝐨𝐯𝐢𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ♡", url="https://t.me/movieminglee")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
-                        InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
+                        InlineKeyboardButton("🤖𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭🤖", callback_data="aboutbot"),
+                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs"),
+                        InlineKeyboardButton("🔐 𝐂𝐥𝐨𝐬𝐞 🔐", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/TeleRoidGroup"),
-                        InlineKeyboardButton(" Support Group", url="https://t.me/TeleRoid14")
+                        InlineKeyboardButton("♡ 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ♡", url="https://t.me/EliteCraft_Studios"),
+                        InlineKeyboardButton("💬𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩💬", url="https://t.me/EliteCraft_Support")
                     ]
                 ]
             )
@@ -124,7 +124,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/TeleRoid14)",
+            await message.reply_text("😎Sorry, You are banned!\n\nContact [Support Group](https://t.me/EliteCraft_Support)",
                                      disable_web_page_preview=True)
             return
 
@@ -318,12 +318,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/PredatorHackerzZ/TG-FileStore")
-                    ],
-                    [
-                        InlineKeyboardButton("Go Home", callback_data="gotohome"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("♡ 𝐇𝐨𝐦𝐞 ♡", callback_data="gotohome"),
+                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -336,12 +332,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/PredatorHackerzZ/TG-FileStore")
-                    ],
-                    [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("Go Home", callback_data="gotohome")
+                        InlineKeyboardButton("🤖𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭🤖", callback_data="aboutbot"),
+                        InlineKeyboardButton("♡ 𝐇𝐨𝐦𝐞 ♡", callback_data="gotohome")
                     ]
                 ]
             )
@@ -354,16 +346,16 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BotsList Channel", url="https://t.me/PayForBotz")
+                        InlineKeyboardButton("♡ 𝐌𝐨𝐯𝐢𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ♡", url="https://t.me/movieminglee")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs"),
-                        InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
+                        InlineKeyboardButton("🤖𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭🤖", callback_data="aboutbot"),
+                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs"),
+                        InlineKeyboardButton("🔐 𝐂𝐥𝐨𝐬𝐞 🔐", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/TeleRoid14"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/TeleRoidGroup")
+                        InlineKeyboardButton("💬𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩💬", url="https://t.me/EliteCraft_Support"),
+                        InlineKeyboardButton("♡ 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ♡", url="https://t.me/EliteCraft_Studios")
                     ]
                 ]
             )
@@ -379,7 +371,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 user = await bot.get_chat_member(channel_chat_id, cmd.message.chat.id)
                 if user.status == "kicked":
                     await cmd.message.edit(
-                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/TeleRoid14).",
+                        text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/EliteCraft_Support).",
                         disable_web_page_preview=True
                     )
                     return
@@ -390,10 +382,10 @@ async def button(bot: Client, cmd: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
+                                InlineKeyboardButton("🤖  𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url=invite_link.invite_link)
                             ],
                             [
-                                InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
+                                InlineKeyboardButton("🔄 𝐑𝐞𝐟𝐫𝐞𝐬𝐡 🔄", callback_data="refreshmeh")
                             ]
                         ]
                     )
@@ -401,7 +393,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Support Group](https://t.me/TeleRoid14).",
+                    text="Something went Wrong. Contact my [Support Group](https://t.me/EliteCraft_Support).",
                     disable_web_page_preview=True
                 )
                 return
@@ -411,12 +403,12 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/TeleRoid14"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/TeleRoidGroup")
+                        InlineKeyboardButton("💬𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩💬", url="https://t.me/EliteCraft_Support"),
+                        InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/movieminglee")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("🤖𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭🤖", callback_data="aboutbot"),
+                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs")
                     ]
                 ]
             )
