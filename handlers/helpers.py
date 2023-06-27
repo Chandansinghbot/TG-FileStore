@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @EliteCraft_Studios
 
 from base64 import standard_b64encode, standard_b64decode
 
