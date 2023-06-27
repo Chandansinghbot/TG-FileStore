@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 | @PredatorHackerzZ
+# (c) @EliteCraft_Studios
 
 import asyncio
 from configs import Config
@@ -55,8 +55,8 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
             f"Just Click the link to get your files!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/TeleRoidGroup"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/TeleRoid14")]]
+                 [InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/Movieminglee"),
+                  InlineKeyboardButton("𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url="https://t.me/EliteCraft_Studios")]]
             ),
             disable_web_page_preview=True
         )
@@ -94,8 +94,8 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             "Just Click the link to get your file!",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://t.me/TeleRoidGroup"),
-                  InlineKeyboardButton("Support Group", url="https://t.me/TeleRoid14")]]
+                 [InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/movieminglee"),
+                  InlineKeyboardButton("💬𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩💬", url="https://t.me/elitecraft_support")]]
             ),
             disable_web_page_preview=True
         )
