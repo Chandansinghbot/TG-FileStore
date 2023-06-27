@@ -1,4 +1,4 @@
-# (c) @PredatorHackerzZ || @TeleRoidGroup
+# (c) @EliteCraft_Studios
 
 import os
 
