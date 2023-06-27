@@ -32,24 +32,23 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 │
 ├🔹📡 **Hosted On:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
 │
-├🔸👨‍💻 **Developer:** [@𝐏𝐫𝐞𝐝𝐚𝐭𝐨𝐫](https://t.me/PredatorHackerzZ) 
+├🔸👨‍💻 **Developer:** [★彡 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 彡★](https://t.me/Elite_Craft_Official) 
 │
-├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/TeleRoid14)
+├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/EliteCraft_Support)
 │
-├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/TeleRoidGroup)
+├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/EliteCraft_Studios)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@𝐏𝐫𝐞𝐝𝐚𝐭𝐨𝐫𝐇𝐚𝐜𝐤𝐞𝐫𝐳𝐙](https://t.me/PredatorHackerzZ) 
+🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [💞 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 💞](https://t.me/Elite_Craft_Official) 
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐬 𝐒𝐮𝐩𝐞𝐫 𝐍𝐨𝐨𝐛. 𝐉𝐮𝐬𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐨𝐜𝐬. 𝐀𝐧𝐝 𝐒𝐞𝐞𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐅𝐫𝐨𝐦 𝐏𝐫𝐨 𝐂𝐨𝐝𝐞𝐫𝐬\n**@TheTeleRoid**
+𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘪𝘴 𝘚𝘶𝘱𝘦𝘳 𝘕𝘰𝘰𝘣. 𝘑𝘶𝘴𝘵 𝘓𝘦𝘢𝘳𝘯𝘪𝘨 𝘧𝘳𝘰𝘮 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭 𝘋𝘰𝘤𝘴. 𝘈𝘯𝘥 𝘚𝘦𝘦𝘬𝘪𝘯𝘨 𝘏𝘦𝘭𝘱 𝘍𝘳𝘰𝘮 𝘗𝘳𝘰 𝘊𝘰𝘥𝘦𝘳\𝘯**@God_Luffy_ati**
 
-𝐈𝐟 𝐘𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐃𝐨𝐧𝐚𝐭𝐞 𝐎𝐮𝐫 𝐇𝐚𝐫𝐝 𝐖𝐨𝐫𝐤. 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐡𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. 
+𝘪𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘵𝘰 𝘋𝘰𝘯𝘢𝘵𝘦 𝘖𝘶𝘳 𝘩𝘢𝘳𝘥 𝘞𝘰𝘳𝘬. 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘛𝘩𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳. 
 
-𝐀𝐥𝐬𝐨 𝐫𝐞𝐦𝐞𝐦𝐛𝐞𝐫 𝐭𝐡𝐚𝐭 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐥𝐥 𝐃𝐞𝐥𝐞𝐭𝐞 𝐀𝐝𝐮𝐥𝐭 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞. 𝐒𝐨 𝐛𝐞𝐭𝐭𝐞𝐫 𝐝𝐨𝐧'𝐭 𝐒𝐭𝐨𝐫𝐞 𝐓𝐡𝐨𝐬𝐞 𝐊𝐢𝐧𝐝 𝐨𝐟 𝐓𝐡𝐢𝐧𝐠𝐬.
-
-[**Donate Me**](https://www.paypal.me/AbhishekKumarIN47) (𝐏𝐚𝐲𝐏𝐚𝐥)
+𝘈𝘭𝘴𝘰 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳𝘴 𝘛𝘩𝘢𝘵 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘞𝘪𝘭𝘭 𝘋𝘦𝘭𝘦𝘵𝘦 𝘈𝘥𝘶𝘭𝘵𝘴 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴 𝘍𝘳𝘰𝘮 𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦. 𝘚𝘰 𝘉𝘦𝘵𝘵𝘦𝘳 𝘥𝘰𝘯'𝘵 𝘚𝘵𝘰𝘳𝘦 𝘛𝘩𝘰𝘴𝘦 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘛𝘩𝘪𝘯𝘨𝘴.
+[**𝘋𝘰𝘯𝘢𝘵𝘦 𝘔𝘦**](https://www.paypal.me/ChandanS854) (𝐏𝐚𝐲𝐏𝐚𝐥)
 """
 	HOME_TEXT = """
 Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
