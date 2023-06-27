@@ -1,4 +1,4 @@
-# (c) Mr. Vishal & @AbirHasan2005 @PredatorHackerzZ
+# (c) @EliteCraft_Studios
 
 import datetime
 from configs import Config
@@ -23,6 +23,6 @@ async def handle_user_status(bot, cmd):
         ).days > ban_status["ban_duration"]:
             await db.remove_ban(chat_id)
         else:
-            await cmd.reply_text("You R Banned!.. Contact @TeleRoid14 😝", quote=True)
+            await cmd.reply_text("You R Banned!.. Contact @C_r_e_3 😝", quote=True)
             return
     await cmd.continue_propagation()
