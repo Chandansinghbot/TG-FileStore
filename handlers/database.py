@@ -1,4 +1,4 @@
-# (c) @PredatorHackerzZ
+# (c) @EliteCraft_Studios
 
 import datetime
 import motor.motor_asyncio
