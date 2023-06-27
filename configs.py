@@ -43,7 +43,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [💞 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 💞](https://t.me/Elite_Craft_Official) 
 
-𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘪𝘴 𝘚𝘶𝘱𝘦𝘳 𝘕𝘰𝘰𝘣. 𝘑𝘶𝘴𝘵 𝘓𝘦𝘢𝘳𝘯𝘪𝘨 𝘧𝘳𝘰𝘮 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭 𝘋𝘰𝘤𝘴. 𝘈𝘯𝘥 𝘚𝘦𝘦𝘬𝘪𝘯𝘨 𝘏𝘦𝘭𝘱 𝘍𝘳𝘰𝘮 𝘗𝘳𝘰 𝘊𝘰𝘥𝘦𝘳\𝘯**@God_Luffy_ati**
+𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘪𝘴 𝘚𝘶𝘱𝘦𝘳 𝘕𝘰𝘰𝘣. 𝘑𝘶𝘴𝘵 𝘓𝘦𝘢𝘳𝘯𝘪𝘨 𝘧𝘳𝘰𝘮 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭 𝘋𝘰𝘤𝘴. 𝘈𝘯𝘥 𝘚𝘦𝘦𝘬𝘪𝘯𝘨 𝘏𝘦𝘭𝘱 𝘍𝘳𝘰𝘮 𝘗𝘳𝘰 𝘊𝘰𝘥𝘦𝘳\𝘯 **@God_Luffy_ati**
 
 𝘪𝘧 𝘠𝘰𝘶 𝘞𝘢𝘯𝘵 𝘵𝘰 𝘋𝘰𝘯𝘢𝘵𝘦 𝘖𝘶𝘳 𝘩𝘢𝘳𝘥 𝘞𝘰𝘳𝘬. 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘛𝘩𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳. 
 
