@@ -78,8 +78,7 @@ async def start(bot: Client, cmd: Message):
                     ],
                     [
                         InlineKeyboardButton("🤖𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭🤖", callback_data="aboutbot"),
-                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs"),
-                        InlineKeyboardButton("🔐 𝐂𝐥𝐨𝐬𝐞 🔐", callback_data="closeMessage")
+                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs")
                     ],
                     [
                         InlineKeyboardButton("♡ 𝐁𝐨𝐭𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ♡", url="https://t.me/EliteCraft_Studios"),
@@ -350,8 +349,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     ],
                     [
                         InlineKeyboardButton("🤖𝐀𝐛𝐨𝐮𝐭 𝐁𝐨𝐭🤖", callback_data="aboutbot"),
-                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdevs"),
-                        InlineKeyboardButton("🔐 𝐂𝐥𝐨𝐬𝐞 🔐", callback_data="closeMessage")
+                        InlineKeyboardButton("🧑‍💻𝐀𝐛𝐨𝐮𝐭 𝐃𝐞𝐯🧑‍💻", callback_data="aboutdev")
                     ],
                     [
                         InlineKeyboardButton("💬𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩💬", url="https://t.me/EliteCraft_Support"),
